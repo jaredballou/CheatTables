@@ -1,0 +1,11 @@
+{
+  "description": "new monny",
+  "address_expr": "0x7ffffa953724",
+  "value_type": [
+    2,
+    0,
+    true,
+    0
+  ],
+  "children": []
+}
